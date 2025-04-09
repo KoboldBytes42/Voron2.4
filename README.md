@@ -32,6 +32,9 @@ https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/
 **dragon burner toolhead:**  
 https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
 
+**Sherpa Mini Extruder**  
+https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/
+
 # ToDo:
 **3D nozzle position probe:**
 https://github.com/zruncho3d/nudge/
