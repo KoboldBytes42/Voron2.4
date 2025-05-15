@@ -24,6 +24,9 @@ https://github.com/DraftShift/CableManagement/tree/main/UserMods/N3MI-DG/Umbilic
 **Hartk1213 - smaller z-joint with special ballgear:**  
 https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_GE5C
 
+**miniBFI**
+https://github.com/DraftShift/StealthChanger/tree/main/UserMods/BT123/MiniBFI%20%2B%20MicroBFI
+
 **XOL toolhead:**  
 https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/  
  - ToDo: 3wire fan tachometer  
