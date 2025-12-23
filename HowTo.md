@@ -16,7 +16,7 @@ i wanted to upgrade to an RPi4 since the BTT Pi was not recieving system updates
   ip link set can0 up
   ```
 3. Make it executable: ```sudo chmod +x /usr/local/bin/can-startup.sh```
-4. Use systemd to run on boot: Create ```o chmod +x /usr/local/bin/can-start
+5. Use systemd to run on boot: Create /etc/systemd/system/can0.service
   ```
   [Unit]
   Description=Enable CAN Bus Interface
